@@ -1,0 +1,13 @@
+measures of center:
+. mean
+. median
+. mode
+
+Measures of Spread:
+. Range
+. Interquartile range(IQR)
+. lower quartile (Q1)
+. second quartile (Q2)
+. upper quartile (Q3)
+. Standard deviation
+. Variance
